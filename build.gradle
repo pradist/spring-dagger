@@ -11,8 +11,8 @@ repositories {
 }
 
 dependencies {
-    compile group: 'org.springframework', name: 'spring-context', version: '4.3.11.RELEASE'
-    compile group: 'org.springframework', name: 'spring-aop', version: '4.3.11.RELEASE'
+    compile group: 'org.springframework', name: 'spring-context', version: '5.0.4.RELEASE'
+    compile group: 'org.springframework', name: 'spring-aop', version: '5.0.4.RELEASE'
     compile group: 'org.aspectj', name: 'aspectjrt', version: '1.8.10'
     compile group: 'org.aspectj', name: 'aspectjweaver', version: '1.8.10'
     compile group: 'javax.inject', name: 'javax.inject', version: '1'
